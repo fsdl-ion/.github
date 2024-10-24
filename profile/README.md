@@ -1,4 +1,10 @@
-## Hi there 👋
+## FSDL-ION
+
+Foundations of Superconducting Logic (FSDL) team comprising:
+* UC Riverside
+* Yokohama National University
+* University of Maryland
+* Stanford University
 
 <!--
 
