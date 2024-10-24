@@ -1,8 +1,7 @@
 ## FSDL-ION
 
-Foundations of Superconducting Logic (FSDL) team for the project entitled "Nanoscale Ion Beam Materials Modification for Next-generation Superconducting Digital"
+Nanoscale Ion Beam Materials Modification for Next-generation Superconducting Digital FSDL (Foundations of Superconducting Logic) team comprising:
 
-Team members:
 * UC Riverside
 * Yokohama National University
 * University of Maryland
